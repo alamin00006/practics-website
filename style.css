@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Montserrat:wght@400;500;600&family=Poppins:wght@400;500;700&family=Vujahday+Script&display=swap');
+
+
+
+body{
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+
+}
+.background-color{
+    background-image: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+}
+span{
+    color: #FABE4C;
+}
